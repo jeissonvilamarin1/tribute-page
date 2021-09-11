@@ -1,8 +1,3 @@
-*{
-    margin: 0;
-    box-sizing: border-box;
-    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
-}
 
 #main{
     width: 90%;
@@ -52,3 +47,4 @@
     cursor: pointer;
     color: black;
     font-weight: bold;
+}
